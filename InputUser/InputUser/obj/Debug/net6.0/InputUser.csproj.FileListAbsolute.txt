@@ -1,0 +1,15 @@
+D:\MyLearn\InputUser\InputUser\InputUser\bin\Debug\net6.0\InputUser.exe
+D:\MyLearn\InputUser\InputUser\InputUser\bin\Debug\net6.0\InputUser.deps.json
+D:\MyLearn\InputUser\InputUser\InputUser\bin\Debug\net6.0\InputUser.runtimeconfig.json
+D:\MyLearn\InputUser\InputUser\InputUser\bin\Debug\net6.0\InputUser.dll
+D:\MyLearn\InputUser\InputUser\InputUser\bin\Debug\net6.0\InputUser.pdb
+D:\MyLearn\InputUser\InputUser\InputUser\obj\Debug\net6.0\InputUser.csproj.AssemblyReference.cache
+D:\MyLearn\InputUser\InputUser\InputUser\obj\Debug\net6.0\InputUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyLearn\InputUser\InputUser\InputUser\obj\Debug\net6.0\InputUser.AssemblyInfoInputs.cache
+D:\MyLearn\InputUser\InputUser\InputUser\obj\Debug\net6.0\InputUser.AssemblyInfo.cs
+D:\MyLearn\InputUser\InputUser\InputUser\obj\Debug\net6.0\InputUser.csproj.CoreCompileInputs.cache
+D:\MyLearn\InputUser\InputUser\InputUser\obj\Debug\net6.0\InputUser.dll
+D:\MyLearn\InputUser\InputUser\InputUser\obj\Debug\net6.0\refint\InputUser.dll
+D:\MyLearn\InputUser\InputUser\InputUser\obj\Debug\net6.0\InputUser.pdb
+D:\MyLearn\InputUser\InputUser\InputUser\obj\Debug\net6.0\InputUser.genruntimeconfig.cache
+D:\MyLearn\InputUser\InputUser\InputUser\obj\Debug\net6.0\ref\InputUser.dll
